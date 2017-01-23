@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Runtime.Serialization;
+using System.Runtime.Serialization; // Third Party Library JSON.net
 
 
 
@@ -9,6 +9,7 @@ namespace MegaEscritorio
 {
     internal class Order
     {
+        // Class Variables
         private Desk myDesk;
         private bool rushOrder;
         private int rushDays;
