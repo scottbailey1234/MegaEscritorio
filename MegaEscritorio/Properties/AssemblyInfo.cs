@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MegaEscritorio")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Brigham Young University Idaho")]
 [assembly: AssemblyProduct("MegaEscritorio")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright © Brigham Young University Idaho 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b2841584-58ab-4eee-97ec-b0e3b2ef62c6")]
+[assembly: Guid("996d6781-b71d-42ff-b4b8-a883d5d69141")]
 
 // Version information for an assembly consists of the following four values:
 //
